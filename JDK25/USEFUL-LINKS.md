@@ -14,6 +14,11 @@
 * [JEP 511: Module Import Declarations](https://openjdk.org/jeps/511)
 * [JEP 512: Compact Source Files and Instance Main Methods](https://openjdk.org/jeps/512)
 * [JEP 513: Flexible Constructor Bodies](https://openjdk.org/jeps/513)
+* [JEP 514: Ahead-of-Time Command-Line Ergonomics](https://openjdk.org/jeps/514)
+* [JEP 518: JFR Cooperative Sampling](https://openjdk.org/jeps/518)
+* [JEP 519: Compact Object Headers](https://openjdk.org/jeps/519)
+* [JEP 520: JFR Method Timing & Tracing](https://openjdk.org/jeps/520)
+* [JEP 521: Generational Shenandoah](https://openjdk.org/jeps/521)
 
 # Other resources
 - [Baeldung. New Features in Java 25](https://www.baeldung.com/java-25-features)

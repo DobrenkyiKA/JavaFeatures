@@ -1,0 +1,2 @@
+# JFR Method Timing and Tracing (JEP 520 – Final)
+JEP 520 improves observability by recording timing data for all method calls on a thread, not just sampled methods. This enables precise reconstruction of method call stacks and durations for time intervals, helping us analyze execution flow and concurrency behavior more thoroughly. It complements existing profiling features by offering richer, deterministic tracing data rather than probabilistic sampling.

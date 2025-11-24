@@ -1,0 +1,2 @@
+# Compact Object Headers (JEP 519 – Final)
+JEP 519 reduces object header size on 64-bit architectures. This change shrinks the memory footprint of Java objects by using compact layouts for synchronization and identity data in object headers. It particularly benefits large heaps and microservice environments.

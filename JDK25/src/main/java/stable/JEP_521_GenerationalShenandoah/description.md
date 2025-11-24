@@ -1,0 +1,2 @@
+# Generational Shenandoah (JEP 521 – Final)
+JEP 521 adds generational support to the Shenandoah garbage collector. Generational GC improves throughput and pause time performance by optimizing young-generation collection separately from long-lived objects. It brings Shenandoah in line with collectors like G1 and ZGC in terms of efficiency.

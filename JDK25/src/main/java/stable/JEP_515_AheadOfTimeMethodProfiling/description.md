@@ -1,0 +1,2 @@
+# Ahead-of-Time Method Profiling (JEP 515 – Final)
+JEP 515 introduces method-level profiling that records which methods are called and how often, along with other execution characteristics. This data can be saved and reused to inform future optimizations, such as ahead-of-time (AOT) compilation. While Java 25 does not yet include an AOT compiler, this JEP lays critical groundwork for improving startup performance in future versions by enabling profile-guided optimizations.

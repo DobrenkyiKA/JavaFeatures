@@ -1,0 +1,2 @@
+# JFR Cooperative Sampling (JEP 518 – Final)
+JEP 518 allows applications to suggest safe sampling points to Java Flight Recorder. Cooperative sampling reduces overhead by aligning sampling with application-defined safe points, improving accuracy while minimizing disruption to performance-sensitive code.

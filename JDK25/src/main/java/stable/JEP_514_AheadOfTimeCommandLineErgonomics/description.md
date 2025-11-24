@@ -1,0 +1,4 @@
+# Ahead-of-Time Command-Line Ergonomics (JEP 514 – Final)
+JEP 514 is part of Project Leyden and introduces new JVM command-line flags (-XX:AOTCacheOutput=<file>) that disable dynamic features (like class loading and reflection) to evaluate how well an application could perform in a constrained runtime environment. These flags help us identify problematic code paths that would hinder static image generation or future ahead-of-time (AOT) compilation.
+
+While Java 25 does not yet provide a built-in AOT compiler, this JEP lays the groundwork by enabling early experimentation. It supports the long-term goal of delivering static Java applications with predictable startup performance and low memory footprint.
