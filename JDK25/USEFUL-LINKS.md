@@ -22,3 +22,4 @@
 
 # Other resources
 - [Baeldung. New Features in Java 25](https://www.baeldung.com/java-25-features)
+- [Java 25 New Features With Examples](https://javatechonline.com/java-25-new-features-with-examples/)
